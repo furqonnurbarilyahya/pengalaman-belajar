@@ -1,19 +1,24 @@
-# pengalaman-belajar
-Repository ini berisi pengalaman belajarku di dicoding
---
-13 Agustus 2023
-Belajar Dasar Git dengan Github. (Progres 35%)
+### Hi! 👋 I'm Furqon.
 
-* Belajar tentang apa itu Git dan kegunaannya
+An independent Software Engineer who loves to create and share projects about web and mobile technology!
 
-* Belajar tools yang dapat digunakan untuk Git
+- 🔭 I’m currently Mobile Development Cohort at Bangkit Academy 2023 Batch 2
+- 🌱 I’m currently learning about Android Development
 
-14 Agustus 2023
-Belajar Dasar Git dengan Github. (Progres 100%)
+### Tech Stack
+  <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="84px" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Kotlin_logo.svg" /></a>
+  <a href="https://developer.android.com/"><img align="left" alt="Android" title="Android" width="84px" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Android_Logo_%282014-2015%29.svg" /></a>
+  <br>
+  <br>
+  
+### Github Statistic
+<p align="left">
+<a href="https://github.com/furqonnurbarilyahya">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=furqonnurbarilyahya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=furqonnurbarilyahya&layout=compact&theme=algolia"/>
+</a>
+</p>
 
-* Belajar tentang apa itu Git dan kegunaannya
-
-* Belajar tools yang dapat digunakan untuk Git
-
-
-Link url sertifikat: 
+### Reach me on
+- <a href="https://linkedin.com/in/furqon-nurbaril-yahya/">LinkedIn</a>
+- furqonyahya1@gmail.com

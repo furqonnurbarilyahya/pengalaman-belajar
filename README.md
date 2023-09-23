@@ -7,7 +7,7 @@ An independent Software Engineer who loves to create and share projects about we
 
 ### Tech Stack
   <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="84px" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Kotlin_logo.svg" /></a>
-  <a href="https://developer.android.com/"><img align="left" alt="Android" title="Android" width="84px" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Android_Logo_%282014-2015%29.svg" /></a>
+  <a href="https://developer.android.com/"><img align="left" alt="Android" title="Android" width="63px" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Android_Robot_Head_2023.svg" /></a>
   <br>
   <br>
   
